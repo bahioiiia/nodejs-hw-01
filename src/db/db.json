@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "b81c3a70-9208-4153-8821-8ee077c79213",
+    "name": "Miss Anita Kutch",
+    "phone": "534.217.1096 x817",
+    "email": "Nia.Huels@hotmail.com",
+    "job": "Customer Paradigm Supervisor"
+  },
+  {
+    "id": "08513149-0aa0-461a-a273-97dca328efbc",
+    "name": "Yvonne Cronin",
+    "phone": "1-731-423-1725 x3674",
+    "email": "Brennon56@hotmail.com",
+    "job": "Global Data Liaison"
+  },
+  {
+    "id": "cda6eced-a3fd-458c-b315-734398dfe2df",
+    "name": "Lewis Hamill",
+    "phone": "(482) 350-3759",
+    "email": "Myrtis.Wunsch-Prohaska@gmail.com",
+    "job": "Corporate Infrastructure Strategist"
+  },
+  {
+    "id": "eb0dcec8-6478-462e-be36-3e6aba415021",
+    "name": "Lena Hyatt",
+    "phone": "953.374.9603 x86446",
+    "email": "Rhea_Gibson87@gmail.com",
+    "job": "Global Applications Associate"
+  },
+  {
+    "id": "5764b5a4-4b83-4941-9d30-70dab33842eb",
+    "name": "Jay Kuvalis",
+    "phone": "314-592-8537 x3995",
+    "email": "Wiley.Hansen@gmail.com",
+    "job": "Lead Web Manager"
+  }
+]
